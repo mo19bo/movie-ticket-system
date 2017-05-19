@@ -1,11 +1,22 @@
 # The simulation movie tickets booking system
 This  architecture of software is C/S (Client/Server).
-### Client 
+Client
 Using java as programming languages and java-swt as interface development.
-### Database
+Database
 Using MySQL to build a small database. Designed by *powerdesigner*.
-### Server
+Server
 Using PHP + Apache as a development environment. 
-## Introduction
-The system will can run in any system which installed JDK 1.6. 
-The system have four moduel: Display of movie, bookings and seat-picking, 
+## Development environment
+JDK version: JDK 1.6.0_14  
+Development tools: MyEclipse 7.0  
+Database: SQL Server 2005  
+Server: Tomcat 6.0  
+## Main moduel:
+User personal information managment (Login, register and log-out)  
+Display the information of movie  
+Query movie information (including fuzzy search, exact search, searching by type,screening）
+
+
+
+
+
