@@ -1,7 +1,7 @@
 # The simulation movie tickets booking system
 This  architecture of software is C/S (Client/Server).
 Client is developed by using java as programming languages and java-swt as interface development.
-Database employs MySQL to build a small database. Designed by *powerdesigner*.
+Database employs MySQL to build a small databas (Designed by *powerdesigner*).
 Server takes PHP + Apache as a development environment. 
 ## Development environment
 JDK version: JDK 1.6.0_14  
